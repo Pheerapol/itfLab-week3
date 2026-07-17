@@ -1,0 +1,1 @@
+print("my eyes hurt this computer can't control brighness")
